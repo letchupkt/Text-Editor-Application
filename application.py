@@ -1,6 +1,8 @@
-#!/usr/bin/env python
 
-# A simple Gui Text Editor Application by Shehbaz Alam
+
+# A simple Gui Text Editor Application by Letchu Pkt
+
+
 from PyQt5.QtCore import (QFile, QFileInfo, QPoint, QRect, QSettings, QSize, Qt, QTextStream)
 from PyQt5.QtGui import QIcon, QKeySequence
 from PyQt5.QtWidgets import (QAction, QApplication, QFileDialog, QMainWindow, QMessageBox, QTextEdit)
